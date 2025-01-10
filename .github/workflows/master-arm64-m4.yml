@@ -24,7 +24,7 @@ env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: master
   PLATFORM_FILE: configs/arm64-m4.txt
-  CONFIG_FILE: configs/Packages-reduce.txt
+  CONFIG_FILE: configs/arm64-m4.txt
   FREE_DISK_SH: scripts/free_disk_space.sh
   ENV_SH: scripts/environment.sh
   SETTINGS_SH: scripts/init-settings.sh
